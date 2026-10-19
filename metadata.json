@@ -1,0 +1,6 @@
+{
+  "name": "Abhi AI Friend",
+  "description": "Your Smart AI Companion for Chat, Voice, Learning, and Fun",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
